@@ -141,7 +141,7 @@ cd meeting-final
 ## Step 3: Navigate to Backend
 
 ```bash
-cd meeting-backend-main
+cd meeting-backend-main/meeting-backend-main
 ```
 
 ---
@@ -245,7 +245,7 @@ cd meeting-final
 ## Step 2: Navigate to Frontend
 
 ```bash
-cd meeting_frontend-main
+cd meeting_frontend-main/meeting_frontend-main
 ```
 
 ---
